@@ -1,0 +1,23 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.hed {
+  color: rgba(252, 191, 25, 0.89);
+}
+
+#up {
+  border: 5px;
+  margin: 15px;
+  color: rgb(233, 255, 110);
+  background-color: rgba(255, 0, 55, 0.658);
+}
+
+#dw {
+  border: 5px;
+  margin: 15px;
+  color: rgb(233, 255, 110);
+  background-color: rgba(0, 60, 255, 0.815);
+}
